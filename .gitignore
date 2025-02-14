@@ -1,0 +1,27 @@
+# Ignorer les fichiers et dossiers Unity inutiles
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+Packages/
+.vscode/
+*.csproj
+*.sln
+*.userprefs
+
+# Ignorer les fichiers multimédias et archives volumineuses
+*.png
+*.mp4
+*.avi
+*.zip
+*.docx
+*.pdf
+
+# Ignorer les projets et dossiers spécifiques
+AR Project/
+JEU/
+My projectAr/
+project1AA4/
